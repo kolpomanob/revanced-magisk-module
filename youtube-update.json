@@ -1,6 +1,6 @@
 {
-  "version": "v20.07.39 (patches: 5.20.0)",
-  "versionCode": 8,
-  "zipUrl": "https://github.com/kolpomanob/revanced-magisk-module/releases/download/8/youtube-revanced-magisk-v20.07.39-all.zip",
+  "version": "v20.07.39 (patches: 5.20.1)",
+  "versionCode": 9,
+  "zipUrl": "https://github.com/kolpomanob/revanced-magisk-module/releases/download/9/youtube-revanced-magisk-v20.07.39-all.zip",
   "changelog": "https://raw.githubusercontent.com/kolpomanob/revanced-magisk-module/update/build.md"
 }
