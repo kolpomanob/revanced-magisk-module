@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches: 5.43.1)",
-  "versionCode": 39,
-  "zipUrl": "https://github.com/kolpomanob/revanced-magisk-module/releases/download/39/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches: 5.44.0)",
+  "versionCode": 40,
+  "zipUrl": "https://github.com/kolpomanob/revanced-magisk-module/releases/download/40/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/kolpomanob/revanced-magisk-module/update/build.md"
 }
