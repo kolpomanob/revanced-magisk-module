@@ -1,6 +1,6 @@
 {
-  "version": "v7.59.0.856624550 (patches: 5.48.0)",
-  "versionCode": 46,
-  "zipUrl": "https://github.com/kolpomanob/revanced-magisk-module/releases/download/46/googlephotos-revanced-magisk-v7.59.0.856624550-arm-v7a.zip",
+  "version": "v7.68.0.884121604 (patches 6.1.0.rvp)",
+  "versionCode": 47,
+  "zipUrl": "https://github.com/kolpomanob/revanced-magisk-module/releases/download/47/googlephotos-revanced-module-v7.68.0.884121604-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/kolpomanob/revanced-magisk-module/update/build.md"
 }
